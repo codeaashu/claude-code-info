@@ -74,12 +74,6 @@ Apache-2.0
 
 ---
 
-<div align="center">
-	<sub>Made with ❤️ by <a href="https://x.com/warrioraashuu">aashuu ✦</a></sub>
-</div>
-
----
-
 ## ✨ Features
 
 - **Per-file documentation:** View summaries, use cases, and highlighted previews for every file in `claude/src`.
