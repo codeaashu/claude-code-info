@@ -1,0 +1,29 @@
+{
+  "name": "claude-files-info",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Browse leaked Claude Code claude/src — per-file docs, summaries, highlighted previews (Next.js).",
+  "scripts": {
+    "docs:manifest": "node scripts/build-claude-src-manifest.mjs",
+    "dev": "next dev",
+    "build": "npm run docs:manifest && next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "16.2.1",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "shiki": "^4.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
