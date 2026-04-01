@@ -33,12 +33,12 @@ export default function RootLayout({
           <span>
             Built by{" "}
             <a
-              href="https://x.com/21prnv"
+              href="https://x.com/warrioraashuu"
               target="_blank"
               rel="noopener noreferrer"
               className="font-semibold underline hover:no-underline"
             >
-              prnv
+              aashuu ✦
             </a>
           </span>
           <ThemeToggle />
