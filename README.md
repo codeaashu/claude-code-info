@@ -9,7 +9,6 @@
 		<img src="https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript" />
 	</p>
 	<p>Created by <a href="https://x.com/warrioraashuu" target="_blank"><b>aashuu ✦</b></a></p>
-	<p><a href="https://github.com/codeaashu/claude-code-info">GitHub Repo</a></p>
 </div>
 
 ---
