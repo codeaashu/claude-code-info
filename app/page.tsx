@@ -19,7 +19,7 @@ function GitHubIcon({ className }: { className?: string }) {
 }
 
 const githubHref =
-  process.env.NEXT_PUBLIC_GITHUB_URL ?? "https://github.com/21prnv/claude-code-info";
+  process.env.NEXT_PUBLIC_GITHUB_URL ?? "https://github.com/codeaashu/claude-code-info";
 
 export default function Home() {
   return (
