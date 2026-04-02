@@ -8,7 +8,12 @@
 		<img src="https://img.shields.io/badge/TailwindCSS-4-38bdf8?logo=tailwindcss" />
 		<img src="https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript" />
 	</p>
-	<p>Created by <a href="https://x.com/warrioraashuu" target="_blank"><b>aashuu ✦</b></a></p>
+	<h1>Claude Code — Leaked Source</h1>
+
+> The original full source code of Anthropic's [Claude Code CLI](https://github.com/codeaashu/claude-code).
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrioraashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrioraashuu)
+
 </div>
 
 ---
